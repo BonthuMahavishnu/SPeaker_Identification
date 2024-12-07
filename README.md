@@ -247,7 +247,7 @@ python infer.py --file <path-to-audio-file>
 
 Link to Trained Models and Intermediate Files 
 
- All trained models and intermediate files can be accessed [here](https://drive.google.com/drive/folders/
+ 
  
  
 
